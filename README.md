@@ -2,7 +2,7 @@
 
 A simple web-based Rock-Paper-Scissors game built with **HTML, CSS, and JavaScript**.
 
-![Game Screenshot](./image/home.png)
+![Game Screenshot](./image/Home.png)
 ![WinCase Screenshot](./image/wincase.png)
 ![LostCase Screenshot](./image/lostcase.png)
 ![DrawCase Screenshot](./image/drawcase.png)
